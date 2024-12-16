@@ -465,20 +465,20 @@ span.colored {
 }
 #billboard {
     position: relative;
-    margin-bottom: 170px;
+    margin-bottom: 100px;
 }
 #billboard .banner-content {
     position: absolute;
     top: 0;
     left: 0;
     color: #000000;
-    margin-top: 230px;
-    margin-left: 200px;
+    margin-top: 300px;
+    margin-left: 180px;
     width: 50%;
 }
 #billboard .banner-header {
     width: 75%;
-    margin-bottom: 200px;
+    margin-bottom: 80px;
 }
 .banner-content h1 {
     font-size: 5em;
